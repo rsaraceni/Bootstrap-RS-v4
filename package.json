@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-rs-v4",
+  "version": "1.0.0",
+  "description": "Estrutura de front-end baseado no Bootstrap 4.6.1 com classes e plugins adicionais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsaraceni/Bootstrap-RS-v4.git"
+  },
+  "author": "Rogério Saraceni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsaraceni/Bootstrap-RS-v4/issues"
+  },
+  "homepage": "https://github.com/rsaraceni/Bootstrap-RS-v4#readme"
+}
